@@ -1,0 +1,1 @@
+# terraform-aws-lambda-sns-gchat-notification
